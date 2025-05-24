@@ -9,7 +9,7 @@ This is a console-based puzzle game implemented in Python. The game has two leve
 # Features
 -	The map layout is chosen randomly in each game.
 -	ASCII-art rendering in the console.
--	Box pushing physics (can’t	 push through walls or other boxes).
+-	Box pushing physics (can't	 push through walls or other boxes).
 -	Interactive True/False quiz in the map.
 -	Password verification based on quiz answers.
 -	Restart or quit at any time.
@@ -32,7 +32,7 @@ Level 1: Push the Box
 -	If you push the box into the exit, Level 1 is completed.
 Level 2: Binary Password Lock
 -	Explore the map to find hint mark ?.
--	Step in ‘?’ will trigger the question.
+-	Step in '?' will trigger the question.
 -	Each question corresponds to one bit: T = 1, F = 0.
 -	Collect the correct bits (based on standard answers) in state['correct_bits'].
 -	When you reach the exit (E), you will be prompted to enter the password.

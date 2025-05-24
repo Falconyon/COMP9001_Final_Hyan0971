@@ -15,7 +15,8 @@ This is a console-based puzzle game implemented in Python. The game has two leve
 -	Restart or quit at any time.
 # Usage
 Run the game from the command line:
-- python game.py
+python game.py
+
 When game started, use the following keys:
 -	W: Move up
 -	A: Move left
